@@ -1,3 +1,5 @@
+#requirements
+
 yfinance
 pandas
 numpy
